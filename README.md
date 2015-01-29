@@ -4,8 +4,7 @@ For some Salesforce fun - (1) integrating connected devices and (2) feeding sour
 Some triggers include:
 ButtonPushChat1.tgr - feeding connected device into Salesforce
 
-# -- These can be bundled to make "Pre-Trip Planning" Account object section in order to
-# -- view Account's info on the fly (esp on Salesforce1 mobile!)
+# -- These can be bundled to make "Pre-Trip Planning" Account object section in order to view Account's info on the fly (esp on Salesforce1 mobile!)
 # FeedCompany.tgr - Feeding public RSS Feed into Salesforce
 # FeedJob.tgr - Feeding LinkedIn Jobs into Salesforce 
 # IndustryFeed.tgr - Feeding NY Times into Salesforce 

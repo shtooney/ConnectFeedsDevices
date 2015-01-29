@@ -10,7 +10,7 @@ TomorrowWeather.tgr - Feeding Tomorrow's weather into Salesforce //
 StockChange.tgr - Feeding Stocks & their fluctuations into Salesforce //
 IndustryFeed.tgr - Feeding NY Times into Salesforce //
 FeedCompany.tgr - Feeding public RSS Feed into Salesforce //
-FeedJob.tgr - Feeding LinkedIn Jobs into Salesforce //
+FeedJob.tgr - Feeding LinkedIn Jobs into Salesforce
 
 
 
